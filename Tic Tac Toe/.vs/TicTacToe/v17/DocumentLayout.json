@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bradon and lauren\\Box\\Bradon\\CS3280\\Week 4\\TicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF14891-127A-4743-9FDD-6499C5339AC4}|TicTacToe\\TicTacToe.csproj|c:\\users\\bradon and lauren\\box\\bradon\\cs3280\\week 4\\tictactoe\\tictactoe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF14891-127A-4743-9FDD-6499C5339AC4}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF14891-127A-4743-9FDD-6499C5339AC4}|TicTacToe\\TicTacToe.csproj|c:\\users\\bradon and lauren\\box\\bradon\\cs3280\\week 4\\tictactoe\\tictactoe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDF14891-127A-4743-9FDD-6499C5339AC4}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF14891-127A-4743-9FDD-6499C5339AC4}|TicTacToe\\TicTacToe.csproj|c:\\users\\bradon and lauren\\box\\bradon\\cs3280\\week 4\\tictactoe\\tictactoe\\clstictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF14891-127A-4743-9FDD-6499C5339AC4}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\clstictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF14891-127A-4743-9FDD-6499C5339AC4}|TicTacToe\\TicTacToe.csproj|c:\\users\\bradon and lauren\\box\\bradon\\cs3280\\week 4\\tictactoe\\tictactoe\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF14891-127A-4743-9FDD-6499C5339AC4}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bradon and lauren\\Box\\Bradon\\CS3280\\Week 4\\TicTacToe\\TicTacToe\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TicTacToe\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bradon and lauren\\Box\\Bradon\\CS3280\\Week 4\\TicTacToe\\TicTacToe\\MainWindow.xaml",
+              "RelativeToolTip": "TicTacToe\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T17:33:14.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bradon and lauren\\Box\\Bradon\\CS3280\\Week 4\\TicTacToe\\TicTacToe\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bradon and lauren\\Box\\Bradon\\CS3280\\Week 4\\TicTacToe\\TicTacToe\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TicTacToe\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowEcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:32:48.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsTicTacToe.cs",
+              "DocumentMoniker": "C:\\Users\\bradon and lauren\\Box\\Bradon\\CS3280\\Week 4\\TicTacToe\\TicTacToe\\clsTicTacToe.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\clsTicTacToe.cs",
+              "ToolTip": "C:\\Users\\bradon and lauren\\Box\\Bradon\\CS3280\\Week 4\\TicTacToe\\TicTacToe\\clsTicTacToe.cs",
+              "RelativeToolTip": "TicTacToe\\clsTicTacToe.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:32:40.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\bradon and lauren\\Box\\Bradon\\CS3280\\Week 4\\TicTacToe\\TicTacToe\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\bradon and lauren\\Box\\Bradon\\CS3280\\Week 4\\TicTacToe\\TicTacToe\\AssemblyInfo.cs",
+              "RelativeToolTip": "TicTacToe\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:32:39.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

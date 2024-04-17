@@ -1,0 +1,14 @@
+﻿<Window x:Class="WPF_Math_Game_Outline.wndMathMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="wndMathMenu" Height="393" Width="486"
+        Background="black"
+        >
+    <Grid>
+        <Label Content="Math JEDI Main Menu" Foreground="Gold" Height="45" HorizontalAlignment="Center" Margin="0,10,0,0" Name="label1" VerticalAlignment="Top" FontSize="20" Width="218" FontWeight="Bold" />
+        <Button Content="Play Game" BorderThickness="2" BorderBrush="White" Background="Black" Foreground="Gold" Height="45" HorizontalAlignment="Left" Margin="26,134,0,0" Name="cmdPlayGame" VerticalAlignment="Top" Width="122" FontSize="18" Click="cmdPlayGame_Click" />
+        <Button Content="High Scores" BorderThickness="2" BorderBrush="White" Background="Black" Foreground="Gold" FontSize="18" Height="45" HorizontalAlignment="Left" Margin="175,134,0,0" Name="cmdHighScores" VerticalAlignment="Top" Width="122" Click="cmdHighScores_Click" />
+        <Button Content="Enter Jedi Data" BorderThickness="2" BorderBrush="White" Background="Black" Foreground="Gold" FontSize="18" Height="45" HorizontalAlignment="Left" Margin="326,134,0,0" Name="cmdEnterUserData" VerticalAlignment="Top" Width="139" Click="cmdEnterUserData_Click" />
+        <Label Content="" Name="ErrorLabelJediInput" Foreground="Red" HorizontalAlignment="Center" Margin="0,231,0,0" VerticalAlignment="Top" Width="420" FontWeight="Bold" FontSize="18"/>
+    </Grid>
+</Window>

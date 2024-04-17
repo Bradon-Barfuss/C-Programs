@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "342c5e1a-b101-4d48-b370-824ecef5ed4f": {
+      "ProjectGuid": "342c5e1a-b101-4d48-b370-824ecef5ed4f",
+      "DisplayName": "WPF Math Game Outline",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

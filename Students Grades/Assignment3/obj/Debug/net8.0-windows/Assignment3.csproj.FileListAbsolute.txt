@@ -1,0 +1,16 @@
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 3\Assignment3\Assignment3\bin\Debug\net8.0-windows\Assignment3.exe
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 3\Assignment3\Assignment3\bin\Debug\net8.0-windows\Assignment3.deps.json
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 3\Assignment3\Assignment3\bin\Debug\net8.0-windows\Assignment3.runtimeconfig.json
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 3\Assignment3\Assignment3\bin\Debug\net8.0-windows\Assignment3.dll
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 3\Assignment3\Assignment3\bin\Debug\net8.0-windows\Assignment3.pdb
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 3\Assignment3\Assignment3\obj\Debug\net8.0-windows\Assignment3.Form1.resources
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 3\Assignment3\Assignment3\obj\Debug\net8.0-windows\Assignment3.csproj.GenerateResource.cache
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 3\Assignment3\Assignment3\obj\Debug\net8.0-windows\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 3\Assignment3\Assignment3\obj\Debug\net8.0-windows\Assignment3.AssemblyInfoInputs.cache
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 3\Assignment3\Assignment3\obj\Debug\net8.0-windows\Assignment3.AssemblyInfo.cs
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 3\Assignment3\Assignment3\obj\Debug\net8.0-windows\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 3\Assignment3\Assignment3\obj\Debug\net8.0-windows\Assignment3.dll
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 3\Assignment3\Assignment3\obj\Debug\net8.0-windows\refint\Assignment3.dll
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 3\Assignment3\Assignment3\obj\Debug\net8.0-windows\Assignment3.pdb
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 3\Assignment3\Assignment3\obj\Debug\net8.0-windows\Assignment3.genruntimeconfig.cache
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 3\Assignment3\Assignment3\obj\Debug\net8.0-windows\ref\Assignment3.dll

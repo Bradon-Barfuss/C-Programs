@@ -1,0 +1,14 @@
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 1\Assignment1\Assignment1Part2\bin\Debug\net8.0\Assignment1Part2.exe
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 1\Assignment1\Assignment1Part2\bin\Debug\net8.0\Assignment1Part2.deps.json
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 1\Assignment1\Assignment1Part2\bin\Debug\net8.0\Assignment1Part2.runtimeconfig.json
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 1\Assignment1\Assignment1Part2\bin\Debug\net8.0\Assignment1Part2.dll
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 1\Assignment1\Assignment1Part2\bin\Debug\net8.0\Assignment1Part2.pdb
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 1\Assignment1\Assignment1Part2\obj\Debug\net8.0\Assignment1Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 1\Assignment1\Assignment1Part2\obj\Debug\net8.0\Assignment1Part2.AssemblyInfoInputs.cache
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 1\Assignment1\Assignment1Part2\obj\Debug\net8.0\Assignment1Part2.AssemblyInfo.cs
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 1\Assignment1\Assignment1Part2\obj\Debug\net8.0\Assignment1Part2.csproj.CoreCompileInputs.cache
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 1\Assignment1\Assignment1Part2\obj\Debug\net8.0\Assignment1Part2.dll
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 1\Assignment1\Assignment1Part2\obj\Debug\net8.0\refint\Assignment1Part2.dll
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 1\Assignment1\Assignment1Part2\obj\Debug\net8.0\Assignment1Part2.pdb
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 1\Assignment1\Assignment1Part2\obj\Debug\net8.0\Assignment1Part2.genruntimeconfig.cache
+C:\Users\brado\OneDrive\Documents\School\CS3280\Week 1\Assignment1\Assignment1Part2\obj\Debug\net8.0\ref\Assignment1Part2.dll

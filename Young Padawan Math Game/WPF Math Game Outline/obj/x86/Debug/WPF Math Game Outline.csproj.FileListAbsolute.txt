@@ -1,0 +1,142 @@
+c:\users\ro086b.sw\documents\visual studio 2010\Projects\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ro086b.sw\documents\visual studio 2010\Projects\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndEnterUserData.baml
+c:\users\ro086b.sw\documents\visual studio 2010\Projects\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndGame.baml
+c:\users\ro086b.sw\documents\visual studio 2010\Projects\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndHighScores.baml
+c:\users\ro086b.sw\documents\visual studio 2010\Projects\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndMathMenu.baml
+c:\users\ro086b.sw\documents\visual studio 2010\Projects\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndEnterUserData.g.cs
+c:\users\ro086b.sw\documents\visual studio 2010\Projects\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndGame.g.cs
+c:\users\ro086b.sw\documents\visual studio 2010\Projects\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndHighScores.g.cs
+c:\users\ro086b.sw\documents\visual studio 2010\Projects\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndMathMenu.g.cs
+c:\users\ro086b.sw\documents\visual studio 2010\Projects\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\App.g.cs
+c:\users\ro086b.sw\documents\visual studio 2010\Projects\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline_MarkupCompile.cache
+c:\users\ro086b.sw\documents\visual studio 2010\Projects\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.g.resources
+c:\users\ro086b.sw\documents\visual studio 2010\Projects\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\WPF_Math_Game_Outline.Properties.Resources.resources
+c:\users\ro086b.sw\documents\visual studio 2010\Projects\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ro086b.sw\documents\visual studio 2010\Projects\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ro086b.sw\documents\visual studio 2010\Projects\WPF Math Game Outline\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.exe
+c:\users\ro086b.sw\documents\visual studio 2010\Projects\WPF Math Game Outline\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.pdb
+c:\users\ro086b.sw\documents\visual studio 2010\Projects\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.exe
+c:\users\ro086b.sw\documents\visual studio 2010\Projects\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.pdb
+C:\Users\ro086b.SW\Desktop\C# Class\2011\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.exe
+C:\Users\ro086b.SW\Desktop\C# Class\2011\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.pdb
+C:\Users\ro086b.SW\Desktop\C# Class\2011\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.exe
+C:\Users\ro086b.SW\Desktop\C# Class\2011\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.pdb
+C:\Users\ro086b.SW\Desktop\C# Class\2011\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ro086b.SW\Desktop\C# Class\2011\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndEnterUserData.baml
+C:\Users\ro086b.SW\Desktop\C# Class\2011\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndGame.baml
+C:\Users\ro086b.SW\Desktop\C# Class\2011\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndHighScores.baml
+C:\Users\ro086b.SW\Desktop\C# Class\2011\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndMathMenu.baml
+C:\Users\ro086b.SW\Desktop\C# Class\2011\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndEnterUserData.g.cs
+C:\Users\ro086b.SW\Desktop\C# Class\2011\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndGame.g.cs
+C:\Users\ro086b.SW\Desktop\C# Class\2011\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndHighScores.g.cs
+C:\Users\ro086b.SW\Desktop\C# Class\2011\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndMathMenu.g.cs
+C:\Users\ro086b.SW\Desktop\C# Class\2011\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\App.g.cs
+C:\Users\ro086b.SW\Desktop\C# Class\2011\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline_MarkupCompile.cache
+C:\Users\ro086b.SW\Desktop\C# Class\2011\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.g.resources
+C:\Users\ro086b.SW\Desktop\C# Class\2011\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\WPF_Math_Game_Outline.Properties.Resources.resources
+C:\Users\ro086b.SW\Desktop\C# Class\2011\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ro086b.SW\Desktop\C# Class\2011\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ro086b.SW\Desktop\C# Class\2012\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.exe
+C:\Users\ro086b.SW\Desktop\C# Class\2012\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.pdb
+C:\Users\ro086b.SW\Desktop\C# Class\2012\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.exe
+C:\Users\ro086b.SW\Desktop\C# Class\2012\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.pdb
+C:\Users\ro086b.SW\Desktop\C# Class\2012\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ro086b.SW\Desktop\C# Class\2012\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndEnterUserData.baml
+C:\Users\ro086b.SW\Desktop\C# Class\2012\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndGame.baml
+C:\Users\ro086b.SW\Desktop\C# Class\2012\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndHighScores.baml
+C:\Users\ro086b.SW\Desktop\C# Class\2012\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndMathMenu.baml
+C:\Users\ro086b.SW\Desktop\C# Class\2012\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndEnterUserData.g.cs
+C:\Users\ro086b.SW\Desktop\C# Class\2012\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndGame.g.cs
+C:\Users\ro086b.SW\Desktop\C# Class\2012\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndHighScores.g.cs
+C:\Users\ro086b.SW\Desktop\C# Class\2012\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\wndMathMenu.g.cs
+C:\Users\ro086b.SW\Desktop\C# Class\2012\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\App.g.cs
+C:\Users\ro086b.SW\Desktop\C# Class\2012\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline_MarkupCompile.cache
+C:\Users\ro086b.SW\Desktop\C# Class\2012\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.g.resources
+C:\Users\ro086b.SW\Desktop\C# Class\2012\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\WPF_Math_Game_Outline.Properties.Resources.resources
+C:\Users\ro086b.SW\Desktop\C# Class\2012\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ro086b.SW\Desktop\C# Class\2012\My Program Examples\WPF Math Game Outline\WPF Math Game Outline\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Shawn\Desktop\My Class for Teaching C# at Weber State\_Summer Class 2014\My Program Examples\Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.exe
+C:\Users\Shawn\Desktop\My Class for Teaching C# at Weber State\_Summer Class 2014\My Program Examples\Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.pdb
+C:\Users\Shawn\Desktop\My Class for Teaching C# at Weber State\_Spring 2016\My Program Examples\Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.exe
+C:\Users\Shawn\Desktop\My Class for Teaching C# at Weber State\_Spring 2016\My Program Examples\Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.pdb
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.exe.config
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.exe
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.pdb
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.csproj.AssemblyReference.cache
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\wndEnterUserData.baml
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\wndGame.baml
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\wndHighScores.baml
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\wndMathMenu.baml
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\wndEnterUserData.g.cs
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\wndGame.g.cs
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\wndHighScores.g.cs
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\wndMathMenu.g.cs
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\App.g.cs
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline_MarkupCompile.cache
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.g.resources
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF_Math_Game_Outline.Properties.Resources.resources
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.csproj.GenerateResource.cache
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.exe
+C:\Users\Shawn\Desktop\_WSU C#\_Spring 2022\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.pdb
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Files For Students\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.exe.config
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Files For Students\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.exe
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Files For Students\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.pdb
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Files For Students\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.csproj.AssemblyReference.cache
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Files For Students\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\wndEnterUserData.baml
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Files For Students\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\wndGame.baml
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Files For Students\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\wndHighScores.baml
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Files For Students\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\wndMathMenu.baml
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Files For Students\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\wndEnterUserData.g.cs
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Files For Students\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\wndGame.g.cs
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Files For Students\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\wndHighScores.g.cs
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Files For Students\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\wndMathMenu.g.cs
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Files For Students\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\App.g.cs
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Files For Students\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline_MarkupCompile.cache
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Files For Students\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.g.resources
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Files For Students\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF_Math_Game_Outline.Properties.Resources.resources
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Files For Students\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.csproj.GenerateResource.cache
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Files For Students\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.csproj.CoreCompileInputs.cache
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Files For Students\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.exe
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Files For Students\Files For Students\Example Programs\11. Math Game Outline WPF\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.pdb
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.exe.config
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.exe
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.pdb
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.csproj.AssemblyReference.cache
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\wndEnterUserData.baml
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\wndGame.baml
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\wndHighScores.baml
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\wndMathMenu.baml
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\wndEnterUserData.g.cs
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\wndGame.g.cs
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\wndHighScores.g.cs
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\wndMathMenu.g.cs
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\App.g.cs
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline_MarkupCompile.cache
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.g.resources
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\WPF_Math_Game_Outline.Properties.Resources.resources
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.csproj.GenerateResource.cache
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.csproj.CoreCompileInputs.cache
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.exe
+C:\Users\bradon and lauren\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.pdb
+C:\Users\brado\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.exe.config
+C:\Users\brado\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.exe
+C:\Users\brado\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\bin\Debug\WPF Math Game Outline.pdb
+C:\Users\brado\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.csproj.AssemblyReference.cache
+C:\Users\brado\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\wndEnterUserData.baml
+C:\Users\brado\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\wndGame.baml
+C:\Users\brado\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\wndHighScores.baml
+C:\Users\brado\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\wndMathMenu.baml
+C:\Users\brado\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\wndEnterUserData.g.cs
+C:\Users\brado\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\wndGame.g.cs
+C:\Users\brado\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\wndHighScores.g.cs
+C:\Users\brado\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\wndMathMenu.g.cs
+C:\Users\brado\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\App.g.cs
+C:\Users\brado\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline_MarkupCompile.cache
+C:\Users\brado\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.g.resources
+C:\Users\brado\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\WPF_Math_Game_Outline.Properties.Resources.resources
+C:\Users\brado\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.csproj.GenerateResource.cache
+C:\Users\brado\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.csproj.CoreCompileInputs.cache
+C:\Users\brado\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.exe
+C:\Users\brado\Box\Bradon\CS3280\Week 5\Assingment_5\WPF Math Game Outline\obj\x86\Debug\WPF Math Game Outline.pdb
