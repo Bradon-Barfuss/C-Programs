@@ -16,9 +16,6 @@
 <br>
 <br>
 <br>
-
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -43,9 +40,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-
 
 
 ### Tic-Tac-Toe Game
@@ -67,6 +61,7 @@
 <br>
 <br>
 
+
 #### Themed Math Game
 <img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Young%20Padawan%20Math%20Game/jediMenuPicture.png" alt="Image" align="right" width="400">
 
@@ -78,6 +73,6 @@
   - Designed a main menu window for game setup.
   - Implemented gameplay with random question generation.
   - Included a final score window with detailed game summary.
-<br><br><br> 
+<br><br>
 <img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Young%20Padawan%20Math%20Game/jedidatapicture.png" alt="Image" align="Left" width="325">
 <img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Young%20Padawan%20Math%20Game/jedimathpicture.png" alt="Image" align="right" width="425">
