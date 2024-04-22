@@ -13,7 +13,7 @@
   - Included a final score window with detailed game summary.
 <br><br>
 <img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Young%20Padawan%20Math%20Game/jedidatapicture.png" alt="Image" align="Left" width="325">
-<img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Young%20Padawan%20Math%20Game/jedimathpicture.png" alt="Image" align="right" width="425">
+<img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Young%20Padawan%20Math%20Game/jedimathpicture.png" alt="Image" align="right" width="400">
 
 <br>
 <br>
@@ -48,30 +48,6 @@
 <br>
 <br>
 <br>
-  
-### Dice Guessing Game
-<img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Die%20Guess%20Game/DiceGamePicture.png" alt="Image" align="right" width="400">
-
-- **Features:**
-  - Enables users to guess the value of a rolled 6-sided dice.
-  - Tracks the number of correct and incorrect guesses.
-  - Provides feedback on the frequency and percentage of each rolled number.
-- **Implementation Details:**
-  - Implemented random dice rolling simulation with visual effects.
-  - Validated user input to accept only values from 1 to 6.
-  - Incorporated error handling for invalid inputs.
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br><br>
-<br>
-<br>
-<br>
-
 
 ### Student Assignment Score Tracker
 <img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Students%20Grades/picture.png" alt="Image" align="right" width="400">
@@ -84,6 +60,33 @@
   - Utilized arrays to store student information and assignment scores.
   - Validated input for the number of students and assignments.
   - Implemented functionality for updating and displaying scores.
+
+ <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Dice Guessing Game
+<img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Die%20Guess%20Game/DiceGamePicture.png" alt="Image" align="right" width="400">
+
+- **Features:**
+  - Enables users to guess the value of a rolled 6-sided dice.
+  - Tracks the number of correct and incorrect guesses.
+  - Provides feedback on the frequency and percentage of each rolled number.
+- **Implementation Details:**
+  - Implemented random dice rolling simulation with visual effects.
+  - Validated user input to accept only values from 1 to 6.
+  - Incorporated error handling for invalid inputs.
+
+
+
+
+
 
 
 
