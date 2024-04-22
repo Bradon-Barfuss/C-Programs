@@ -1,15 +1,13 @@
 # C-Sharp-Programs
 
-## Final Project: Windows WPF Invoice System
+## Windows WPF Invoice System (Team Project) 
 
 ### Project Highlights
 - Utilized Microsoft Access as the backend database for storing invoice data.
 - Divided project responsibilities among team members for efficient development.
-- Applied learned principles of WPF, MVVM architecture, and exception handling.
-- Implemented clean UI design and utilized styles for consistent visual presentation.
+- Implemented Wiresframes and UML diagrams for project organization and structure.
+- Implemented clean UI design and utilized styles for visual presentation.
 - Thoroughly tested user inputs and incorporated error handling for robustness.
-
-
 
 ### Main Window
 <img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Invoice%20System/InvoiceMainMenuPicture.png" alt="Image" align="right" width="450">
@@ -35,7 +33,7 @@
 - **Implementation Details:**
   - Implemented filtering options for searching invoices.
   - Utilized dropdowns for selecting criteria such as invoice number, date, and total charge.
-  - Enabled seamless integration with the main window for viewing and editing selected invoices.
+  - Enabled integration with the main window for viewing and editing selected invoices.
 
 ### Items Window
 <img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Invoice%20System/InvoiceItemMenuPicture.png" alt="Image" align="right" width="450">
@@ -51,8 +49,7 @@
   - Updated dropdown boxes and current invoices upon changes to item definitions.
 
 
-
-
+<br><br>
 
 
 ## Themed Math Game
