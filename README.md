@@ -1,6 +1,53 @@
 # C-Sharp-Programs
 
-### Themed Math Game
+## Final Project: Windows WPF Invoice System
+
+### Project Highlights
+- Utilized Microsoft Access as the backend database for storing invoice data.
+- Divided project responsibilities among team members for efficient development.
+- Applied learned principles of WPF, MVVM architecture, and exception handling.
+- Implemented clean UI design and utilized styles for consistent visual presentation.
+- Thoroughly tested user inputs and incorporated error handling for robustness.
+
+### Main Window
+- **Features:**
+  - Allows users to create new invoices or edit existing ones.
+  - Displays a menu for updating item definitions and opening the search screen.
+  - Enables users to enter invoice details, add items, and save invoices.
+
+- **Implementation Details:**
+  - Created a single window for all main functionalities.
+  - Implemented invoice creation, editing, and saving functionalities.
+  - Utilized a menu control for easy navigation.
+
+### Search Screen
+- **Features:**
+  - Allows users to search for invoices based on various criteria.
+  - Displays all matching invoices in a list for user selection.
+  - Enables users to select an invoice for viewing or editing.
+
+- **Implementation Details:**
+  - Implemented filtering options for searching invoices.
+  - Utilized dropdowns for selecting criteria such as invoice number, date, and total charge.
+  - Enabled seamless integration with the main window for viewing and editing selected invoices.
+
+### Items Window
+- **Features:**
+  - Provides functionality for updating item definitions.
+  - Allows addition, editing, and deletion of items.
+  - Ensures integrity by preventing deletion of items used in invoices.
+
+- **Implementation Details:**
+  - Implemented CRUD operations for item management.
+  - Included validation to prevent deletion of items used in invoices.
+  - Updated dropdown boxes and current invoices upon changes to item definitions.
+
+
+
+
+
+
+## Themed Math Game
 <img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Young%20Padawan%20Math%20Game/jediMenuPicture.png" alt="Image" align="right" width="400">
 
 - **Features:**
@@ -15,22 +62,12 @@
 <img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Young%20Padawan%20Math%20Game/jedidatapicture.png" alt="Image" align="Left" width="325">
 <img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Young%20Padawan%20Math%20Game/jedimathpicture.png" alt="Image" align="right" width="400">
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
 
-### Tic-Tac-Toe Game
+## Tic-Tac-Toe Game
 <img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Tic%20Tac%20Toe/TicTacToePicture.png" alt="Image" align="right" width="400">
 
 - **Features:**
@@ -49,7 +86,7 @@
 <br>
 <br>
 
-### Student Assignment Score Tracker
+## Student Assignment Score Tracker
 <img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Students%20Grades/picture.png" alt="Image" align="right" width="400">
 
 - **Features:**
@@ -68,7 +105,7 @@
 <br>
 <br>
 
-### Dice Guessing Game
+## Dice Guessing Game
 <img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Die%20Guess%20Game/DiceGamePicture.png" alt="Image" align="right" width="400">
 
 - **Features:**
