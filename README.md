@@ -21,7 +21,7 @@
 <br>
 <br>
 <br>
-<br><br>
+<br>
 <br>
 <br>
 <br>
@@ -62,9 +62,6 @@
   - Implemented functionality for updating and displaying scores.
 
  <br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
