@@ -9,7 +9,11 @@
 - Implemented clean UI design and utilized styles for consistent visual presentation.
 - Thoroughly tested user inputs and incorporated error handling for robustness.
 
+
+
 ### Main Window
+<img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Invoice%20System/InvoiceMainMenuPicture.png" alt="Image" align="right" width="450">
+
 - **Features:**
   - Allows users to create new invoices or edit existing ones.
   - Displays a menu for updating item definitions and opening the search screen.
@@ -21,6 +25,8 @@
   - Utilized a menu control for easy navigation.
 
 ### Search Screen
+<img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Invoice%20System/InvoiceSearchMenuPicture.png" alt="Image" align="right" width="450">
+
 - **Features:**
   - Allows users to search for invoices based on various criteria.
   - Displays all matching invoices in a list for user selection.
@@ -32,6 +38,8 @@
   - Enabled seamless integration with the main window for viewing and editing selected invoices.
 
 ### Items Window
+<img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Invoice%20System/InvoiceItemMenuPicture.png" alt="Image" align="right" width="450">
+
 - **Features:**
   - Provides functionality for updating item definitions.
   - Allows addition, editing, and deletion of items.
