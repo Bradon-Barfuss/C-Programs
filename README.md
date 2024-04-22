@@ -79,4 +79,4 @@
   - Included a final score window with detailed game summary.
 <br><br><br><br><br><br>  
 <img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Young%20Padawan%20Math%20Game/jedidatapicture.png" alt="Image" align="Left" width="350">
-<img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Young%20Padawan%20Math%20Game/jedimathpicture.png" alt="Image" align="right" width="600">
+<img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Young%20Padawan%20Math%20Game/jedimathpicture.png" alt="Image" align="right" width="500">
