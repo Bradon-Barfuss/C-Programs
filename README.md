@@ -48,7 +48,7 @@
 
 
 ### Tic-Tac-Toe Game
-<img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Students%20Grades/picture.png" alt="Image" align="right" width="400">
+<img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Tic%20Tac%20Toe/TicTacToePicture.png" alt="Image" align="right" width="400">
 
 - **Features:**
   - Two-player game with a Tic-Tac-Toe board.
@@ -60,7 +60,15 @@
   - Integrated UI elements for player interaction.
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 #### Themed Math Game
+<img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Young%20Padawan%20Math%20Game/jediMenuPicture.png" alt="Image" align="right" width="400">
+
 - **Features:**
   - Provides a themed math game experience for young kids.
   - Offers options for addition, subtraction, multiplication, and division.
@@ -69,3 +77,6 @@
   - Designed a main menu window for game setup.
   - Implemented gameplay with random question generation.
   - Included a final score window with detailed game summary.
+<br><br><br><br><br><br>  
+<img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Young%20Padawan%20Math%20Game/jedidatapicture.png" alt="Image" align="Left" width="350">
+<img src="https://github.com/Bradon-Barfuss/C-Sharp-Programs/raw/main/Young%20Padawan%20Math%20Game/jedimathpicture.png" alt="Image" align="right" width="600">
